@@ -25,7 +25,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 				)
 		), externalDocs = @ExternalDocumentation(
 		description = "Spring Boot Search REST API Documentation",
-		url = "https://github.com/attrayadas/real-time-blog-application-springrest"
+		url = "https://github.com/attrayadas/springboot-search-rest-api"
 )
 ) // go to: http://localhost:8080/swagger-ui/index.html
 public class SpringbootSearchRestApiApplication {
