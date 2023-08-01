@@ -6,7 +6,7 @@ A compact REST API project for efficient search operations on MySQL using Spring
 **1. Clone the Application**
 
 ```bash
-git clone https://github.com/attrayadas/springboot-search-rest-api
+git clone https://github.com/attrayadas/sample-springboot-search-rest-api.git
 ```
 
 **2. Create MySQL Database**
